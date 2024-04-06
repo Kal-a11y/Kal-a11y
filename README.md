@@ -1,7 +1,7 @@
 <div align="center"><img src="https://github.com/Kal-a11y/Kal-a11y/assets/75392247/0835f741-fd19-40c3-ac54-b60563f39696"></div>
 <hr/>
 
-<img width="400px" align="right" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
+<img width="30%" align="right" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 - 🔭 I’m currently working on [a Hotel Utility App](https://github.com/Kal-a11y/hotel-utility-app)
 
