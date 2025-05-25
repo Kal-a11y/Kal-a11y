@@ -3,9 +3,8 @@
 
 <img width="30%" align="right" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
-- 🔭 I’m currently working on [a Hotel Utility App](https://github.com/Kal-a11y/hotel-utility-app)
-
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on my Portfolio
+- 🌱 I’m currently learning **Building my marketing and communication skills**
 
 - 👨‍💻 All of my projects are available at [https://luminous-cannoli-028a97.netlify.app/](https://luminous-cannoli-028a97.netlify.app/)
 
